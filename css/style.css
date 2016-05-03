@@ -1,0 +1,42 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-image: url(http://images.naldzgraphics.net/2014/07/11-cotton-fabric-texture.jpg);
+  margin-left: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+#search {
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: #69D2E7;
+    text-align: center;
+    color: black;
+    opacity: 1.0;
+    font-size: 17px;
+}
+
+.searchbox{
+  height: 30px;
+  width: 250px;
+  font-size: 20px;
+}
+
+.movies {
+  font-size: 20px;
+}
+
+p {
+  background-color: #69D2E7;
+  width: 400px;
+  border: 1px solid black;
+  padding: 10px;
+  transition: .3s;
+}
+
+p:hover {
+transform: translateY(0.3em);
+opacity: 0.5;
+}
