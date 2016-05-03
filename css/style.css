@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  background-image: url(http://images.naldzgraphics.net/2014/07/11-cotton-fabric-texture.jpg);
+  background-image: url(http://st2.depositphotos.com/1079778/9414/v/170/depositphotos_94143600-Light-grey-and-white-geometric.jpg);
   margin-left: 20px;
 }
 
@@ -11,7 +11,7 @@ h1 {
     height: 35px;
     width: 70px;
     border-radius: 5px;
-    background-color: #69D2E7;
+    background-color: mistyrose;
     text-align: center;
     color: black;
     opacity: 1.0;
@@ -26,6 +26,8 @@ h1 {
 
 #text {
   font-size: 24px;
+  margin-bottom: 20px;
+  width: 500px;
 }
 
 .movies {
@@ -33,7 +35,7 @@ h1 {
 }
 
 p {
-  background-color: #69D2E7;
+  background-color: mistyrose;
   width: 400px;
   border: 1px solid black;
   padding: 10px;
